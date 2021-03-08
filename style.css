@@ -1,0 +1,61 @@
+@charset "UTF-8";
+.title{
+	position:relative;
+	left:650px;
+	bottom:-9500px;
+}
+.indian{
+	position:relative;
+	left:-100px;
+	bottom:-10570px;
+}
+.native{
+	position:relative;
+	left:225px;
+	bottom:-9650px;
+}
+.large{
+	position:relative;
+	left:415px;
+	bottom:-8750px;
+}
+.trans{
+	position:relative;
+	left:660px;
+	bottom:-7800px;
+}
+.white{
+	position:relative;
+	left:900px;
+	bottom:-6880px;
+}
+.asian{
+	position:relative;
+	left:1050px;
+	bottom:-5950px;
+}
+.black{
+	position:relative;
+	left:1320px;
+	bottom:-5000px;
+}
+.muslim{
+	position:relative;
+	left:1550px;
+	bottom:-4100px;
+}
+.pregnant{
+	position:relative;
+	left:1860px;
+	bottom:-2230px;
+}
+.old{
+	position:relative;
+	left:2090px;
+	bottom:-3170px;
+}
+.queer{
+	position:relative;
+	left:2300px;
+	bottom:-1300px;
+}
